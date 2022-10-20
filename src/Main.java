@@ -83,6 +83,5 @@ public class Main {
         printSeparator();
         deliverPackage(deliveryDistance);
 
-
     }
 }
